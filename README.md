@@ -72,8 +72,6 @@ Student Performance Analytics
 
 Manish Dange
 
-GitHub: https://github.com/your-username
-
 Project Type: Full Stack Django + React
 
 ⭐ Support
